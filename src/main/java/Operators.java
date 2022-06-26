@@ -1,9 +1,4 @@
 
-
-
-
-
-
 public class Operators {
 
     public Operators(){
